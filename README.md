@@ -2,7 +2,7 @@
 
 In this project, over 11,000 tweets associated with disaster keywords are used to predict catastrophe depicting tweets through machine learning and natural language techniques.
 This project is performed in 3 major steps. The dataset is prepared for training through various layers of preprocessing and this preprocessed data is trained through various models. 
-These trained models are evaluated on the basis of 3 evaluation metrics.
+These trained models are evaluated on the basis of 4 evaluation metrics.
 
 ## Data Preprocessing
 
@@ -36,6 +36,7 @@ These trained models are evaluated on the basis of 3 evaluation metrics.
 - Accuracy
 - Precision
 - Recall
+- F1 Score
 
 
 
