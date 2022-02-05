@@ -38,5 +38,8 @@ These trained models are evaluated on the basis of 4 evaluation metrics.
 - Recall
 - F1 Score
 
+## Results
+
+![Results](/assets/Results.png)
 
 
